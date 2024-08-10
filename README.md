@@ -8,13 +8,13 @@
 -   Separate view of the done and not done tasks
 -   Separate screen for important tasks
 -   Theme switcher
--   Move tasks to bin
+-   Move tasks to the bin
 -   Tasks permanent deleting
 
 ## 💻 Requirements
 
 -   Any Operating System (ie. MacOS X, Linux, Windows)
--   Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+-   Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode, etc)
 -   A little knowledge of Dart and Flutter
 
 ## 🏃 How to Run
@@ -25,7 +25,7 @@
 
 3. Select the Flutter: Select Device. If no devices are running, this command prompts you to enable a device.
 
-4. Select a target device from Select Device prompt.
+4. Select a target device from the Select Device prompt.
 
 5. After you select a target, start the app. Go to Run > Start Debugging or press F5.
 
@@ -49,3 +49,4 @@
 </table>
 
 ## 🎥 Demo Video
+[01A02F06-F80D-497B-8E49-C697E27A7A9F.webm](https://github.com/user-attachments/assets/3d61cb66-c7a3-4719-9abb-41f0f573fb71)
